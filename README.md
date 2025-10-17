@@ -287,4 +287,4 @@ This project serves as an introduction to SQL for data analysts, covering table 
 
 ## Author - analysethatdata
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
+This project is part of my portfolio, showcasing the SQL skills essential for data analysis.
